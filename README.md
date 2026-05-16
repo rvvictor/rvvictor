@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Artificial+Intelligence+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-victormruizl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/victormruizl)
 [![GitHub](https://img.shields.io/badge/GitHub-rvvictor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rvvictor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victormruizl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormruizl)
 [![Email](https://img.shields.io/badge/Email-ruiz.lopez.victormanuelr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruiz.lopez.victormanuelr@gmail.com)
 
 </div>
