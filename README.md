@@ -20,8 +20,13 @@
 name: Victor Manuel Ruiz López
 location: Ciudad de México, México
 education:
-  - Artificial Intelligence Engineering
-  - school: ESCOM - Instituto Politécnico Nacional (IPN)
+  current:
+    - Artificial Intelligence Engineering
+    - school: ESCOM - Instituto Politécnico Nacional (IPN)
+
+  Aug 2021 - Jul 2024:
+    - degree: Technical Programming
+    - school: CECyT 9 "Juan de Dios Bátiz" - Instituto Politécnico Nacional (IPN)
 
 interests:
   - Full Stack Development
